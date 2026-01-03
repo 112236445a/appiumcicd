@@ -1,0 +1,25 @@
+34:ios:iPhoneSe:com.qa.BaseTest:Platform is:ios
+34:ios:iPhoneSe:com.qa.BaseTest:Terminate App
+34:ios:iPhoneSe:com.qa.BaseTest:Launching App
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:standard_user
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:secret sauce
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:invaliduserName
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:invalidPassword
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:standard_user
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:secret_sauce
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:PRODUCTS
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.BaseTest:Driver quit

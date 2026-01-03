@@ -1,0 +1,30 @@
+36:Android:Pixel_5:com.qa.BaseTest:/Users/ming/IdeaProjects/appiumFramework/target/classes/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+36:Android:Pixel_5:com.qa.BaseTest:Platform is:Android
+36:Android:Pixel_5:com.qa.BaseTest:Terminate App
+36:Android:Pixel_5:com.qa.BaseTest:Launching App
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:standard_user
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:secret sauce
+36:Android:Pixel_5:com.qa.BaseTest:Clicking the element
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Attribute
+36:Android:Pixel_5:com.qa.BaseTest:Terminate App
+36:Android:Pixel_5:com.qa.BaseTest:Launching App
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:invaliduserName
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:invalidPassword
+36:Android:Pixel_5:com.qa.BaseTest:Clicking the element
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Attribute
+36:Android:Pixel_5:com.qa.BaseTest:Terminate App
+36:Android:Pixel_5:com.qa.BaseTest:Launching App
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:standard_user
+36:Android:Pixel_5:com.qa.BaseTest:Clearing the Field...
+36:Android:Pixel_5:com.qa.BaseTest:Sending the keys:secret_sauce
+36:Android:Pixel_5:com.qa.BaseTest:Clicking the element
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Text:PRODUCTS
+36:Android:Pixel_5:com.qa.BaseTest:Getting the Attribute
+36:Android:Pixel_5:com.qa.BaseTest:Driver quit

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.qa.listeners.TestListener"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="iOS(failed)">
+    <parameter name="emulator" value="true"/>
+    <parameter name="platformName" value="ios"/>
+    <parameter name="udid" value="90579EDE-6225-418F-8DA5-3D091C08BE5C"/>
+    <parameter name="deviceName" value="iPhoneSe"/>
+    <parameter name="wdaLocalPort" value="11000"/>
+    <classes>
+      <class name="com.qa.tests.ProductTest">
+        <methods>
+          <include name="afterTest"/>
+          <include name="validProductOnProductPage"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeMethod"/>
+          <include name="validProductOnProductDetailPage"/>
+          <include name="afterSuite"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.qa.tests.ProductTest -->
+    </classes>
+  </test> <!-- iOS(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

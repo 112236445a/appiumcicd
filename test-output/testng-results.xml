@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="8" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[This is the sample screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductDetailPage.png'>/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductDetailPage.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[This is the sample screenshot]]>
+    </line>
+    <line>
+      <![CDATA[<a href='/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductPage.png'>/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductPage.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-11-24T20:36:45 HKT" name="All Test Suite" finished-at="2025-11-24T20:38:37 HKT" duration-ms="111987">
+    <groups>
+    </groups>
+    <test started-at="2025-11-24T20:36:45 HKT" name="Android" finished-at="2025-11-24T20:38:30 HKT" duration-ms="105254">
+      <class name="com.qa.tests.ProductTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:37:57 HKT" name="beforeClass" finished-at="2025-11-24T20:37:57 HKT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:37:57 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:57 HKT" duration-ms="415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:37:57 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:58 HKT" duration-ms="794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTest.validProductOnProductDetailPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validProductOnProductDetailPage()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:37:58 HKT" name="validProductOnProductDetailPage" finished-at="2025-11-24T20:38:12 HKT" duration-ms="13975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validProductOnProductDetailPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:38:12 HKT" name="afterMethod" finished-at="2025-11-24T20:38:13 HKT" duration-ms="1412" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validProductOnProductDetailPage status=SUCCESS method=ProductTest.validProductOnProductDetailPage()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:38:13 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:14 HKT" duration-ms="547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:38:14 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:16 HKT" duration-ms="2057" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTest.validProductOnProductPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validProductOnProductPage()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:38:16 HKT" name="validProductOnProductPage" finished-at="2025-11-24T20:38:24 HKT" duration-ms="7812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validProductOnProductPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTest@3e7dd664]" started-at="2025-11-24T20:38:24 HKT" name="afterMethod" finished-at="2025-11-24T20:38:27 HKT" duration-ms="3391" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validProductOnProductPage status=SUCCESS method=ProductTest.validProductOnProductPage()[pri:0, instance:com.qa.tests.ProductTest@3e7dd664] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.qa.tests.ProductTest -->
+      <class name="com.qa.tests.LoginTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:36:42 HKT" name="beforeSuite" finished-at="2025-11-24T20:36:45 HKT" duration-ms="2524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:36:45 HKT" name="beforeTest" finished-at="2025-11-24T20:37:11 HKT" duration-ms="25644" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel_5]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[androidOnly]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[10001]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11002]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:11 HKT" name="beforeClass" finished-at="2025-11-24T20:37:11 HKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:11 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:14 HKT" duration-ms="3186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:14 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:15 HKT" duration-ms="1613" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.invalidPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidPassword()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:15 HKT" name="invalidPassword" finished-at="2025-11-24T20:37:30 HKT" duration-ms="14201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:30 HKT" name="afterMethod" finished-at="2025-11-24T20:37:31 HKT" duration-ms="1507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword status=SUCCESS method=LoginTest.invalidPassword()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:31 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:32 HKT" duration-ms="554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:32 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:34 HKT" duration-ms="2226" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.invalidUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidUserName()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:34 HKT" name="invalidUserName" finished-at="2025-11-24T20:37:43 HKT" duration-ms="9377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserName -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:43 HKT" name="afterMethod" finished-at="2025-11-24T20:37:44 HKT" duration-ms="960" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidUserName status=SUCCESS method=LoginTest.invalidUserName()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:44 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:45 HKT" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:45 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:46 HKT" duration-ms="930" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.validLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:46 HKT" name="validLogin" finished-at="2025-11-24T20:37:56 HKT" duration-ms="10095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:37:56 HKT" name="afterMethod" finished-at="2025-11-24T20:37:57 HKT" duration-ms="866" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=LoginTest.validLogin()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:38:27 HKT" name="afterTest" finished-at="2025-11-24T20:38:30 HKT" duration-ms="3105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.qa.tests.LoginTest@7dda48d9]" started-at="2025-11-24T20:38:37 HKT" name="afterSuite" finished-at="2025-11-24T20:38:37 HKT" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.qa.tests.LoginTest -->
+    </test> <!-- Android -->
+    <test started-at="2025-11-24T20:36:45 HKT" name="iOS" finished-at="2025-11-24T20:38:37 HKT" duration-ms="111987">
+      <class name="com.qa.tests.ProductTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:37:55 HKT" name="beforeClass" finished-at="2025-11-24T20:37:55 HKT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:37:55 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:00 HKT" duration-ms="5056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:00 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:03 HKT" duration-ms="2941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTest.validProductOnProductDetailPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validProductOnProductDetailPage()[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:03 HKT" name="validProductOnProductDetailPage" finished-at="2025-11-24T20:38:14 HKT" duration-ms="11294" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by AppiumBy.accessibilityId: CapsuleNavigationBar?isSelected=true (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.5'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {appium:automationName: XCUITest, appium:avd: iPhoneSe, appium:avdLaunchTimeout: 180, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:databaseEnabled: false, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:newCommandTimeout: 1000, appium:platformVersion: 18.4, appium:simpleIsVisibleCheck: true, appium:takesScreenshot: true, appium:udid: 90579EDE-6225-418F-8DA5-3D0..., appium:wdaLocalPort: 11000, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: 50ececa1-5c12-4d07-8a9c-1a95401c7298]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by AppiumBy.accessibilityId: CapsuleNavigationBar?isSelected=true (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.5'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {appium:automationName: XCUITest, appium:avd: iPhoneSe, appium:avdLaunchTimeout: 180, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:databaseEnabled: false, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:newCommandTimeout: 1000, appium:platformVersion: 18.4, appium:simpleIsVisibleCheck: true, appium:takesScreenshot: true, appium:udid: 90579EDE-6225-418F-8DA5-3D0..., appium:wdaLocalPort: 11000, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: 50ececa1-5c12-4d07-8a9c-1a95401c7298
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.qa.ui.DeepLink.OpenAppWith(DeepLink.java:35)
+at com.qa.tests.ProductTest.validProductOnProductDetailPage(ProductTest.java:81)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+at --- Async.Stack.Trace --- (captured by IntelliJ IDEA debugger)
+at java.base/java.util.concurrent.FutureTask.<init>(FutureTask.java:132)
+at java.base/java.util.concurrent.AbstractExecutorService.newTaskFor(AbstractExecutorService.java:113)
+at java.base/java.util.concurrent.AbstractExecutorService.invokeAll(AbstractExecutorService.java:274)
+at org.testng.internal.thread.ThreadUtil.execute(ThreadUtil.java:70)
+at org.testng.SuiteRunner.runInParallelTestMode(SuiteRunner.java:442)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:371)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductDetailPage.png'>/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductDetailPage.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validProductOnProductDetailPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:14 HKT" name="afterMethod" finished-at="2025-11-24T20:38:15 HKT" duration-ms="607" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validProductOnProductDetailPage status=FAILURE method=ProductTest.validProductOnProductDetailPage()[pri:0, instance:com.qa.tests.ProductTest@a3d9978] output=This is the sample screenshot]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:15 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:20 HKT" duration-ms="5062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:20 HKT" name="beforeMethod" finished-at="2025-11-24T20:38:24 HKT" duration-ms="3808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.ProductTest.validProductOnProductPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validProductOnProductPage()[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:24 HKT" name="validProductOnProductPage" finished-at="2025-11-24T20:38:34 HKT" duration-ms="10413" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by AppiumBy.accessibilityId: CapsuleNavigationBar?isSelected=true (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.5'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {appium:automationName: XCUITest, appium:avd: iPhoneSe, appium:avdLaunchTimeout: 180, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:databaseEnabled: false, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:newCommandTimeout: 1000, appium:platformVersion: 18.4, appium:simpleIsVisibleCheck: true, appium:takesScreenshot: true, appium:udid: 90579EDE-6225-418F-8DA5-3D0..., appium:wdaLocalPort: 11000, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: 50ececa1-5c12-4d07-8a9c-1a95401c7298]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by AppiumBy.accessibilityId: CapsuleNavigationBar?isSelected=true (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.38.0', revision: '6b412e825c*'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.2', java.version: '21.0.5'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {appium:automationName: XCUITest, appium:avd: iPhoneSe, appium:avdLaunchTimeout: 180, appium:bundleId: com.saucelabs.SwagLabsMobil..., appium:databaseEnabled: false, appium:javascriptEnabled: true, appium:locationContextEnabled: false, appium:networkConnectionEnabled: false, appium:newCommandTimeout: 1000, appium:platformVersion: 18.4, appium:simpleIsVisibleCheck: true, appium:takesScreenshot: true, appium:udid: 90579EDE-6225-418F-8DA5-3D0..., appium:wdaLocalPort: 11000, appium:webStorageEnabled: false, platformName: IOS}
+Session ID: 50ececa1-5c12-4d07-8a9c-1a95401c7298
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+at com.qa.ui.DeepLink.OpenAppWith(DeepLink.java:35)
+at com.qa.tests.ProductTest.validProductOnProductPage(ProductTest.java:60)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+at --- Async.Stack.Trace --- (captured by IntelliJ IDEA debugger)
+at java.base/java.util.concurrent.FutureTask.<init>(FutureTask.java:132)
+at java.base/java.util.concurrent.AbstractExecutorService.newTaskFor(AbstractExecutorService.java:113)
+at java.base/java.util.concurrent.AbstractExecutorService.invokeAll(AbstractExecutorService.java:274)
+at org.testng.internal.thread.ThreadUtil.execute(ThreadUtil.java:70)
+at org.testng.SuiteRunner.runInParallelTestMode(SuiteRunner.java:442)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:371)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[This is the sample screenshot]]>
+            </line>
+            <line>
+              <![CDATA[<a href='/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductPage.png'>/Users/ming/IdeaProjects/appiumFramework/ScreenShots/ios_iPhoneSe/2025-11-24-20-36-45/ProductTest/validProductOnProductPage.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validProductOnProductPage -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.ProductTest@a3d9978]" started-at="2025-11-24T20:38:34 HKT" name="afterMethod" finished-at="2025-11-24T20:38:36 HKT" duration-ms="1043" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validProductOnProductPage status=FAILURE method=ProductTest.validProductOnProductPage()[pri:0, instance:com.qa.tests.ProductTest@a3d9978] output=This is the sample screenshot]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.qa.tests.ProductTest -->
+      <class name="com.qa.tests.LoginTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:36:45 HKT" name="beforeTest" finished-at="2025-11-24T20:37:01 HKT" duration-ms="16505" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ios]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[90579EDE-6225-418F-8DA5-3D091C08BE5C]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[iPhoneSe]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[11000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:02 HKT" name="beforeClass" finished-at="2025-11-24T20:37:02 HKT" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:02 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:07 HKT" duration-ms="5767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:08 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:14 HKT" duration-ms="6306" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.invalidPassword()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidPassword()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:14 HKT" name="invalidPassword" finished-at="2025-11-24T20:37:23 HKT" duration-ms="9085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPassword -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:23 HKT" name="afterMethod" finished-at="2025-11-24T20:37:24 HKT" duration-ms="676" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidPassword status=SUCCESS method=LoginTest.invalidPassword()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:24 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:29 HKT" duration-ms="5029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:29 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:32 HKT" duration-ms="3397" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.invalidUserName()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="invalidUserName()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:32 HKT" name="invalidUserName" finished-at="2025-11-24T20:37:39 HKT" duration-ms="6706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidUserName -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:39 HKT" name="afterMethod" finished-at="2025-11-24T20:37:39 HKT" duration-ms="281" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=invalidUserName status=SUCCESS method=LoginTest.invalidUserName()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:39 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:44 HKT" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:44 HKT" name="beforeMethod" finished-at="2025-11-24T20:37:48 HKT" duration-ms="3519" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.qa.tests.LoginTest.validLogin()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validLogin()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:48 HKT" name="validLogin" finished-at="2025-11-24T20:37:54 HKT" duration-ms="6877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:37:54 HKT" name="afterMethod" finished-at="2025-11-24T20:37:55 HKT" duration-ms="286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validLogin status=SUCCESS method=LoginTest.validLogin()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.qa.tests.LoginTest@3e6104fc]" started-at="2025-11-24T20:38:36 HKT" name="afterTest" finished-at="2025-11-24T20:38:37 HKT" duration-ms="1431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.tests.LoginTest -->
+    </test> <!-- iOS -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

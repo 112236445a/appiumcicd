@@ -1,0 +1,8 @@
+[${ctx:ROUTINGKEY} INFO ] 2025-11-17 21:12:40.228 BaseTest:145 - This is info message
+[${ctx:ROUTINGKEY} ERROR] 2025-11-17 21:12:40.279 BaseTest:146 - This is error message
+[${ctx:ROUTINGKEY} DEBUG] 2025-11-17 21:12:40.279 BaseTest:147 - This is debug message
+[${ctx:ROUTINGKEY} WARN ] 2025-11-17 21:12:40.280 BaseTest:148 - This is warning message
+[${ctx:ROUTINGKEY} INFO ] 2025-11-17 21:12:40.228 BaseTest:145 - This is info message
+[${ctx:ROUTINGKEY} ERROR] 2025-11-17 21:12:40.280 BaseTest:146 - This is error message
+[${ctx:ROUTINGKEY} DEBUG] 2025-11-17 21:12:40.280 BaseTest:147 - This is debug message
+[${ctx:ROUTINGKEY} WARN ] 2025-11-17 21:12:40.280 BaseTest:148 - This is warning message

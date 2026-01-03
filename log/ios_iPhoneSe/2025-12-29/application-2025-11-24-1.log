@@ -1,0 +1,48 @@
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:36:45.535 BaseTest:224 - Platform is:ios
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:08.990 LoginTest:49 - 
+****** Starting Test:invalidPassword******
+
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:09.002 BaseTest:288 - Terminate App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:10.336 BaseTest:301 - Launching App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:14.794 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:15.489 BaseTest:251 - Sending the keys:standard_user
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:18.385 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:19.045 BaseTest:251 - Sending the keys:secret sauce
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:20.885 BaseTest:245 - Clicking the element
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:22.810 BaseTest:268 - Getting the Text:Username and password do not match any user in this service.
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:22.815 BaseTest:257 - Getting the Attribute
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:29.163 LoginTest:49 - 
+****** Starting Test:invalidUserName******
+
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:29.163 BaseTest:288 - Terminate App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:30.187 BaseTest:301 - Launching App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:32.560 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:33.074 BaseTest:251 - Sending the keys:invaliduserName
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:35.089 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:35.692 BaseTest:251 - Sending the keys:invalidPassword
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:37.480 BaseTest:245 - Clicking the element
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:38.791 BaseTest:268 - Getting the Text:Username and password do not match any user in this service.
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:38.793 BaseTest:257 - Getting the Attribute
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:44.562 LoginTest:49 - 
+****** Starting Test:validLogin******
+
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:44.562 BaseTest:288 - Terminate App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:45.590 BaseTest:301 - Launching App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:48.090 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:48.569 BaseTest:251 - Sending the keys:standard_user
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:50.150 BaseTest:275 - Clearing the Field...
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:50.825 BaseTest:251 - Sending the keys:secret_sauce
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:52.467 BaseTest:245 - Clicking the element
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:54.359 BaseTest:268 - Getting the Text:PRODUCTS
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:37:54.360 BaseTest:257 - Getting the Attribute
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:00.327 ProductTest:51 - 
+****** Starting Test:validProductOnProductDetailPage******
+
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:00.333 BaseTest:288 - Terminate App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:01.381 BaseTest:301 - Launching App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:20.443 ProductTest:51 - 
+****** Starting Test:validProductOnProductPage******
+
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:20.444 BaseTest:288 - Terminate App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:21.549 BaseTest:301 - Launching App
+[log/ios_iPhoneSe INFO ] 2025-11-24 20:38:36.036 BaseTest:331 - Driver quit

@@ -1,0 +1,68 @@
+34:ios:iPhoneSe:com.qa.BaseTest:Platform is:ios
+34:ios:iPhoneSe:com.qa.BaseTest:Terminate App
+34:ios:iPhoneSe:com.qa.BaseTest:Launching App
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:standard_user
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:secret sauce
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.listeners.TestListener:java.lang.AssertionError: expected [Username and password do not match any user in this service...] but found [Username and password do not match any user in this service.]
+	at org.testng.Assert.fail(Assert.java:111)
+	at org.testng.Assert.failNotEquals(Assert.java:1590)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+	at org.testng.Assert.assertEquals(Assert.java:132)
+	at org.testng.Assert.assertEquals(Assert.java:656)
+	at org.testng.Assert.assertEquals(Assert.java:666)
+	at com.qa.tests.LoginTest.invalidPassword(LoginTest.java:71)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at org.testng.TestRunner.privateRun(TestRunner.java:741)
+	at org.testng.TestRunner.run(TestRunner.java:616)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run$$$capture(FutureTask.java:317)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java)
+	at --- Async.Stack.Trace --- (captured by IntelliJ IDEA debugger)
+	at java.base/java.util.concurrent.FutureTask.<init>(FutureTask.java:132)
+	at java.base/java.util.concurrent.AbstractExecutorService.newTaskFor(AbstractExecutorService.java:113)
+	at java.base/java.util.concurrent.AbstractExecutorService.invokeAll(AbstractExecutorService.java:274)
+	at org.testng.internal.thread.ThreadUtil.execute(ThreadUtil.java:70)
+	at org.testng.SuiteRunner.runInParallelTestMode(SuiteRunner.java:442)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:invaliduserName
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:invalidPassword
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:Username and password do not match any user in this service.
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:standard_user
+34:ios:iPhoneSe:com.qa.BaseTest:Clearing the Field...
+34:ios:iPhoneSe:com.qa.BaseTest:Sending the keys:secret_sauce
+34:ios:iPhoneSe:com.qa.BaseTest:Clicking the element
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Text:PRODUCTS
+34:ios:iPhoneSe:com.qa.BaseTest:Getting the Attribute
+34:ios:iPhoneSe:com.qa.BaseTest:Driver quit
