@@ -1,1 +1,0 @@
-37:Android:Pixel_5:com.qa.BaseTest:/Users/ming/IdeaProjects/appiumFramework/target/classes/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
