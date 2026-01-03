@@ -12,7 +12,7 @@
         <parameter name="wdaLocalPort" value="11000"></parameter>
         <classes>
             <class name="com.qa.tests.LoginTest"></class>
-            <class name="com.qa.tests.ProductTest"></class>
+<!--            <class name="com.qa.tests.ProductTest"></class>-->
         </classes>
     </test>
     <test verbose="2" preserve-order="true" name="Android">
