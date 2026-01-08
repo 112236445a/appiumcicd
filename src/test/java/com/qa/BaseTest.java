@@ -187,12 +187,12 @@ public class BaseTest {
                         caps.setCapability("appium:udid", udid); //Create the parameter inside TestNG XML and pass to here
                     }
                     caps.setCapability("appium:avdLaunchTimeout", 180);
-                    //String androidAppUrl = System.getProperty("user.dir") + File.separator+ "src"+ File.separator+ "test"+ File.separator + "java" + getClass().getClassLoader().getResource("androidAppLocation");
+                    //String androidAppUrl = System.getProperty("user.dir") + File.separator+ "src"+ File.separator+ "main"+ File.separator + "resources" + File.separator + "app" + File.separator + "Android.SauceLabs.Mobile.Sample.app.2.7.1.apk";
                     String androridAppURL = getClass().getResource(props.getProperty("androidAppLocation")).getFile();//Have to use .getFile() way otherwise return null
                     caps.setCapability("appium:systemPort", systemPort);
                     caps.setCapability("appium:chromedriverPort", chromeDriverPort);
                     utils.log().info(androridAppURL);
-                    //caps.setCapability("appium:app", appURL);
+                    caps.setCapability("appium:app", androridAppURL);
                     driver = new AndroidDriver(url,caps);
                     //driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
                     // The automationName, appPackage, appActivity and URL are global configuration parameters.

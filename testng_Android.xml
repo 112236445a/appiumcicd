@@ -4,17 +4,6 @@
     <listeners>
         <listener class-name="com.qa.listeners.TestListener"></listener>
     </listeners>
-    <test verbose="2" preserve-order="true" name="iOS">
-        <parameter name="emulator" value="true"></parameter>
-        <parameter name="platformName" value="ios"></parameter>
-        <parameter name="udid" value="90579EDE-6225-418F-8DA5-3D091C08BE5C"></parameter>
-        <parameter name="deviceName" value="iPhoneSe"></parameter>
-        <parameter name="wdaLocalPort" value="11000"></parameter>
-        <classes>
-            <class name="com.qa.tests.LoginTest"></class>
-<!--            <class name="com.qa.tests.ProductTest"></class>-->
-        </classes>
-    </test>
     <test verbose="2" preserve-order="true" name="Android">
         <parameter name="emulator" value="true"></parameter>
         <parameter name="platformName" value="Android"></parameter>
