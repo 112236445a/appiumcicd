@@ -1,0 +1,98 @@
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:23:57.604 BaseTest:194 - /Users/ming/IdeaProjects/appiumFramework/target/classes/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:27:50.475 BaseTest:194 - /Users/ming/IdeaProjects/appiumFramework/target/classes/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:09.956 BaseTest:200 - Platform is:Android
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:13.086 LoginTest:49 - 
+****** Starting Test:invalidPassword******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:13.087 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:16.284 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:19.706 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:32.078 BaseTest:252 - Sending the keys:standard_user
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:32.944 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:33.477 BaseTest:252 - Sending the keys:secret sauce
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:34.626 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:36.344 BaseTest:266 - Getting the Text:Username and password do not match any user in this service.
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:36.352 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:38.651 LoginTest:49 - 
+****** Starting Test:invalidUserName******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:38.652 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:39.784 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:40.739 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:50.526 BaseTest:252 - Sending the keys:invaliduserName
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:53.016 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:54.161 BaseTest:252 - Sending the keys:invalidPassword
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:28:55.663 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:16.425 BaseTest:266 - Getting the Text:Username and password do not match any user in this service.
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:16.446 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:20.201 LoginTest:49 - 
+****** Starting Test:validLogin******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:20.202 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:21.424 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:23.299 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:28.673 BaseTest:252 - Sending the keys:standard_user
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:29.827 BaseTest:276 - Clearing the Field...
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:30.354 BaseTest:252 - Sending the keys:secret_sauce
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:31.476 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:33.420 BaseTest:266 - Getting the Text:PRODUCTS
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:33.421 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:35.606 ProductTest:51 - 
+****** Starting Test:validProductOnProductDetailPage******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:35.607 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:36.364 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:38.645 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:42.940 BaseTest:266 - Getting the Text:Sauce Labs Backpack
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:42.948 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:43.127 BaseTest:311 - Performing Scrolling
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:50.366 BaseTest:266 - Getting the Text:carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:50.370 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:50.641 BaseTest:266 - Getting the Text:$29.99
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:50.642 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:50.945 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:51.149 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:52.495 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:58.697 ProductTest:51 - 
+****** Starting Test:validProductOnProductPage******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:58.700 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:29:59.666 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.165 BaseTest:266 - Getting the Text:Sauce Labs Backpack
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.176 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.370 BaseTest:266 - Getting the Text:$29.99
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.371 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.691 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:06.995 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:30:11.411 BaseTest:332 - Driver quit
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:30.634 BaseTest:194 - /Users/ming/IdeaProjects/appiumFramework/target/classes/app/Android.SauceLabs.Mobile.Sample.app.2.7.1.apk
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:43.628 BaseTest:200 - Platform is:Android
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:45.790 ProductTest:51 - 
+****** Starting Test:validProductOnProductDetailPage******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:45.790 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:47.637 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:52.077 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:56.274 BaseTest:266 - Getting the Text:Sauce Labs Backpack
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:56.277 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:32:56.409 BaseTest:311 - Performing Scrolling
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:00.826 BaseTest:314 - [[AndroidDriver:  on ANDROID (0c45c3ed-87bc-411c-aa4d-e281d41717a1)] -> -android uiautomator: new UiScrollable(new UiSelector().scrollable(true)).scrollIntoView(new UiSelector().description("test-Price"));]
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:00.884 BaseTest:266 - Getting the Text:carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:00.885 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:01.042 BaseTest:266 - Getting the Text:$29.99
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:01.042 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:01.215 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:01.351 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:02.379 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:07.316 ProductTest:51 - 
+****** Starting Test:validProductOnProductPage******
+
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:07.317 BaseTest:284 - Terminate App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:08.416 BaseTest:298 - Launching App
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.077 BaseTest:266 - Getting the Text:Sauce Labs Backpack
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.082 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.225 BaseTest:266 - Getting the Text:$29.99
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.225 BaseTest:258 - Getting the Attribute
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.343 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:13.619 BaseTest:246 - Clicking the element
+[log/Android_Pixel_5 INFO ] 2026-01-17 15:33:16.585 BaseTest:333 - Driver quit

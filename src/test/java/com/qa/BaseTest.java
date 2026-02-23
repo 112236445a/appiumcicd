@@ -309,8 +309,8 @@ public class BaseTest {
         switch (getPlatform().toLowerCase()){
             case "android":
                 utils.log().info("Performing Scrolling");
-                getDriver().findElement(AppiumBy.androidUIAutomator("new UiScrollable(new UiSelector()" + ".scrollable(true)).scrollIntoView(" + "new UiSelector().description(\"test-Price\"));"
-                ));
+                WebElement action = getDriver().findElement(AppiumBy.androidUIAutomator("new UiScrollable(new UiSelector()" + ".scrollable(true)).scrollIntoView(" + "new UiSelector().description(\"test-Price\"));"));
+                utils.log().info(action);
                 break;
             case "ios":
                 utils.log().info("Performing Scrolling");
